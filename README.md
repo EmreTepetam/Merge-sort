@@ -1,5 +1,5 @@
 # Merge-Sort-Projesi
-# https://app.patika.dev/cucurcun [16,21,11,8,12,22] -> Merge Sort'a göre aşamaları;
+# https://app.patika.dev/Emretepetam [16,21,11,8,12,22] -> Merge Sort'a göre aşamaları;
 #
 # 1)    [16,21,11]          [8,12,22]
 # 
